@@ -1,19 +1,19 @@
--> VoiceEZ Public Information Display System <-
+# VoiceEZ Public Information Display System <-
 
 VoiceEZ Public Information Display System is an innovative web application designed to facilitate seamless text-to-video conversion for Public Information Display Systems (PIDS) and Public Addressing Systems (PAS) at railway and bus stations. The Web app aims to deliver important announcements and information in regional languages and dialects, enhancing communication for diverse audiences. Please note that the integration of the video-making feature and translator is planned for future development.
 
-#Features
+## Features
 • Text to Video Conversion: Convert textual information into engaging videos for display.
 • Regional Language Support: Provide announcements in multiple regional languages and dialects.
 • Public Information Display: Display important messages, announcements, and schedules.
 • User-Friendly Interface: Intuitive design for easy input and management of information.
 • User Registration/Login: Users can create accounts or log.
 
-#Future Scope
+## Future Scope
 In the future, the following enhancements are planned:
 • Integration of Video Making Feature: Only integration is pending; the solution for creating videos from text has been prepared. The upcoming update will seamlessly integrate this functionality into the Translator System.
 
-#Technologies Used
+## Technologies Used
 • HTML: Provides the structure and layout of the application.
 • CSS: Styles the elements and enhances the visual appearance of the app.
 • JavaScript: Implements the logic and functionality of the language translation, copy text, and text-to-speech features.
@@ -21,7 +21,7 @@ In the future, the following enhancements are planned:
 • Video Generation: MoviePy, FFmpeg (for future video creation)
 • Translation Service: Google Cloud Translation API or similar services (for future translation functionality)
 
-#How to Use (Future Version)
+## How to Use (Future Version)
 
 1. User Registration/Login: Users can create accounts or log in to access advanced features.
 2. Input Text: Enter the text for the announcement or information that needs to be displayed.
