@@ -30,7 +30,7 @@ def floating_text_animation(text_clip, start_pos, end_pos, start_time, end_time,
 # Sample Use Case for Train Station: Using Gif
 # Similarly PNG / JPG / MP4 formmats can be used with any text
 background_type = "gif"  
-background_path = "train.gif"  
+background_path = "bus.gif"  
 station = "Okhla Bird Sanctuary"
 
 text_en = f"Welcome to {station}"
