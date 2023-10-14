@@ -11,7 +11,7 @@ body {
   justify-content: center;
   padding: 0 10px;
   min-height: 100vh;
-  background: linear-gradient(to right,#00bc69 0,#00bc88 50%,#00bca8 100%);
+  background: #1f293a;
 }
 
 .container {
@@ -20,12 +20,11 @@ body {
   padding: 30px;
   background: #fff;
   border-radius: 1rem;
-  box-shadow: 0px 0px 36px -5px #b8b8ff;
 }
 
 .wrapper {
   border-radius: 5px;
-  border: 1px solid #ccc;
+  border: 1px solid #2c4766;
 }
 
 .wrapper .text-input {
@@ -34,7 +33,7 @@ body {
 
 .text-input .to-text {
   border-radius: 0px;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #2c4766;
 }
 
 .text-input textarea {
@@ -65,7 +64,7 @@ li,
 .controls {
   list-style: none;
   padding: 12px 15px;
-  border-top: 1px solid #ccc;
+  border-top: 1px solid #1f293a;
 }
 
 .controls .row .icons {
@@ -82,11 +81,11 @@ li,
 }
 .controls .row.from .icons {
   padding-right: 15px;
-  border-right: 1px solid #ccc;
+  border-right: 1px solid #2c4766;
 }
 .controls .row.to .icons {
   padding-left: 15px;
-  border-left: 1px solid #ccc;
+  border-left: 1px solid #2c4766;
 }
 .controls .row select {
   color: #333;
@@ -129,12 +128,12 @@ li,
   padding: 14px;
   outline: none;
   border: none;
-  color: #fff;
+  color: #1f293a;
   cursor: pointer;
   margin-top: 20px;
   font-size: 1.2rem;
   border-radius: 0.3rem;
-  background: #00bc69;
+  background: #0ef;
 }
 
 @media (max-width: 660px) {
@@ -146,7 +145,7 @@ li,
   }
   .text-input .to-text {
     border-left: 0px;
-    border-top: 1px solid #ccc;
+    border-top: 1px solid #2c4766;
   }
   .text-input textarea {
     height: 200px;
